@@ -1,4 +1,5 @@
-   在真机上，利用clone-vm7新建一台虚拟机，名字:PXE-Server
+  1111
+  在真机上，利用clone-vm7新建一台虚拟机，名字:PXE-Server
   
    1.设置防火墙为trusted
    2.当前及永久关闭SELinux
